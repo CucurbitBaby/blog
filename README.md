@@ -6,4 +6,4 @@
 
 # 前端模块化
 
-## 前端模块化详解(完整版) - frontend_modular_detail
+## [前端模块化详解(完整版)](https://github.com/CucurbitBaby/blog/blob/main/frontend_modular_detail/README.md)
